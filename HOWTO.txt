@@ -1,0 +1,4 @@
+Linux:
+1. How to install python
+
+https://stackoverflow.com/questions/60824700/how-can-i-install-python-3-9-on-a-linux-ubuntu-terminal
